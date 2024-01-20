@@ -12,7 +12,7 @@ const NOTE_DETAILS = [
   { note: "Ab", key: "H", frequency: 415.305, active: false },
   { note: "A", key: "N", frequency: 440, active: false },
   { note: "Bb", key: "J", frequency: 466.164, active: false },
-  { note: "B", key: "M", frequency: 493.883, active: false }
+  { note: "B", key: "M", frequency: 493.883, active: false },
 ]
 
 document.addEventListener("keydown", e => {
